@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/Level1.umap",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/SG_Objects.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/BP_Singleton.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/W_HUD.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/BP_Coin.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/Level2.umap",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/BP_LoadLevel_Platform.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/Untitled.umap",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/1.umap",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/2.umap",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/BP/Camera.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/GuardLevel.umap",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/_GENERATED/oscar/Extrude_9CAEC2CB.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/_GENERATED/oscar/Rectangle_E84B8268.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/Materials/Transparent.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/ThirdPerson/Blueprints/Shadow.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/ThirdPerson/Blueprints/BP_Guard_AI.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/BP/BP_Camera.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/BP/BP_Guard_AI.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel.umap",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/BP/BP_detected.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/Materials/M_detected.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/GuardLevel/BP/BP_Checkpoint.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/FirstPerson/Blueprints/Winning.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/FALL/Coding/FirstProject/Content/ThirdPerson/Blueprints/BP_Guard_AI1.uasset"
+			]
+		}
+	]
+}
